@@ -1,11 +1,3 @@
-/*
- * jQuery liScrollToTop v 2.0
- *
- * Copyright 2012, Linnik Yura | MASS CODE
- * Free to use
- * 
- * September 2012
- */
 (function($){
 	$.fn.liScrollToTop = function(params){
 		return this.each(function(){
